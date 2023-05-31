@@ -1,0 +1,64 @@
+[
+  {
+    "id": 118,
+    "color": "#82a7ff",
+    "is_parking_enabled": 1,
+    "speed_limit": 25,
+    "name": "Parking Area",
+    "is_not_fill": 0,
+    "polygon": [
+      { "latitude": 48.14031, "longitude": 17.104023 },
+      { "latitude": 48.140225, "longitude": 17.104022 },
+      { "latitude": 48.140224, "longitude": 17.104088 },
+      { "latitude": 48.14031, "longitude": 17.104087 },
+      { "latitude": 48.14031, "longitude": 17.104085 }
+    ]
+  },
+  {
+    "id": 121,
+    "color": "#82a7ff",
+    "is_parking_enabled": 1,
+    "speed_limit": 25,
+    "name": "Parking Area",
+    "is_not_fill": 0,
+    "polygon": [
+      { "latitude": 48.139655, "longitude": 17.106314 },
+      { "latitude": 48.139652, "longitude": 17.106186 },
+      { "latitude": 48.139652, "longitude": 17.106186 }
+    ]
+  },
+  {
+    "id": 122,
+    "color": "#82a7ff",
+    "is_parking_enabled": 1,
+    "speed_limit": 25,
+    "name": "Parking Area",
+    "is_not_fill": 0,
+    "polygon": [{ "latitude": 48.139964, "longitude": 17.106807 }]
+  },
+  {
+    "id": 123,
+    "color": "#ffffff",
+    "is_parking_enabled": 0,
+    "speed_limit": 25,
+    "name": "Normal",
+    "is_not_fill": 0,
+    "polygon": [
+      { "latitude": 48.1664, "longitude": 17.150256 },
+      { "latitude": 48.1664, "longitude": 17.150256 }
+    ]
+  },
+  {
+    "id": 124,
+    "color": "#82a7ff",
+    "is_parking_enabled": 1,
+    "speed_limit": 25,
+    "name": "Parking Area",
+    "is_not_fill": 0,
+    "polygon": [
+      { "latitude": 48.139795, "longitude": 17.109304 },
+      { "latitude": 48.139793, "longitude": 17.109304 },
+      { "latitude": 48.139795, "longitude": 17.109304 }
+    ]
+  }
+]
